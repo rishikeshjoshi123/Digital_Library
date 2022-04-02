@@ -1,0 +1,5 @@
+This project is being created by learnings of web dev simplified youtube channel's playlist(full stack web devlopment).
+This project has to be completed after learning required skills as fast as possible.
+
+ERRORS FACED:
+1) when i deployed this project to heroku from here it worked fine. But when i did the same by connecting heroku by github than it crashed because of env variables since we don't commit .env file to github so it's not able to do that stuff.
